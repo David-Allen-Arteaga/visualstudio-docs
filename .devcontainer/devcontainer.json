@@ -1,0 +1,5 @@
+{
+  "image": "mcd.microsoft.com/devcontainers/universal:2",
+  "features": "ghcr.io/devcontainers-extra/features/poppler-utils-apt-get:1"
+ }
+  //"latest": "ghcr.io/devcontainers-extra/features/qrcode:2": {}}
